@@ -1,3 +1,10 @@
+/*
+COVID 19 Data Exploration.SQL
+
+Skills Used; Joins, CTE's, Tem Tables, Windows Functions, Aggregate Functions, Creative Views, Converting Data Types
+/*
+
+
 SELECT 
      *
 FROM
